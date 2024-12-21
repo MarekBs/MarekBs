@@ -1,4 +1,4 @@
-Hello, my name is Marek and I am currently studying applied informatics at FEI STU Bratislava 3.rd year. 
+Hello, my name is Marek and I am currently studying applied informatics at FEI STU Bratislava 4.rd year. 
 New technologies and computers were always really interesting for me.
 I have some basic experience in Java, C, C++ and python.
 You can find some of my projects on my profile. Nowadays I am learning web-dev HTML,CSS,JS, React. I would love to have possibility 
