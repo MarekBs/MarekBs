@@ -1,6 +1,5 @@
-Hello, my name is Marek and I am currently studying applied informatics at FEI STU Bratislava 4.th year. 
-New technologies and computers were always really interesting for me.
-I have some basic experience in Java, C, C++ and python.
-You can find some of my projects on my profile. Nowadays I am learning web-dev HTML,CSS,JS, React. I would love to have possibility 
-to gain real life experience from programming  in any company. Every offer is highly appreciated.
+Hello, my name is Marek, and I am currently in my 4th year of studying Applied Informatics at FEI STU Bratislava. I've always been passionate about new technologies and computers. 
+I have basic experience in Java, C, C++, and Python, and you can find some of my projects on my profile.
+Recently, I’ve been focusing on web development and have gained some experience working with React.
+I am eager to further develop my skills and would love the opportunity to gain real-world programming experience in a company. Every offer is greatly appreciated!
 
